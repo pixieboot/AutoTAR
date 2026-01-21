@@ -16,5 +16,6 @@ Ver: 1.1
 Last ver fixes and enchancments:
 - added pre-disabled quick edit for console pause-state prevention
 - added task scheduler schedule info from sys32com
-- added better UI of the current settings
+- added better text status of the current settings
 - added URL handler in case URL is wrong
+
